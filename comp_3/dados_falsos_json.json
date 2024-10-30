@@ -1,0 +1,62 @@
+[
+ {
+  "nome": "Joseph Castro",
+  "endereco": "27492 Seth Grove",
+  "email": "bradyrodriguez@example.net",
+  "telefone": "3303373345"
+ },
+ {
+  "nome": "Mitchell Sanders",
+  "endereco": "16049 Burton Neck Suite 807",
+  "email": "jenniferbrown@example.com",
+  "telefone": "426-937-5259"
+ },
+ {
+  "nome": "Jessica Miller",
+  "endereco": "39002 Scott Light",
+  "email": "lacey66@example.com",
+  "telefone": "001-754-401-8159x285"
+ },
+ {
+  "nome": "Amanda Morgan",
+  "endereco": "7410 Emma Key Apt. 771",
+  "email": "leonstephens@example.org",
+  "telefone": "339.764.8915"
+ },
+ {
+  "nome": "Kathleen Snyder",
+  "endereco": "13243 Thomas Loop Apt. 859",
+  "email": "martinezkaren@example.net",
+  "telefone": "+1-618-686-5167"
+ },
+ {
+  "nome": "Monica Liu",
+  "endereco": "0392 Santana Islands",
+  "email": "asmith@example.net",
+  "telefone": "8106596581"
+ },
+ {
+  "nome": "Micheal Adkins",
+  "endereco": "695 Knight Square",
+  "email": "baileybrian@example.org",
+  "telefone": "(368)910-6030x312"
+ },
+ {
+  "nome": "Ryan Wallace",
+  "endereco": "926 Ramsey Square",
+  "email": "johnrichards@example.com",
+  "telefone": "(774)799-4041"
+ },
+ {
+  "nome": "Brittney Graham",
+  "endereco": "1961 Michelle Unions",
+  "email": "karamyers@example.com",
+  "telefone": "440.983.3695x65608"
+ },
+ {
+  "nome": "Daniel Shaffer",
+  "endereco": "583 Smith Ways",
+  "email": "tboyd@example.com",
+  "telefone": "378.353.5934x425"
+ }
+]

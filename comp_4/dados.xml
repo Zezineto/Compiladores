@@ -1,0 +1,20 @@
+<clientes>
+  <cliente>
+    <cliente_id>1</cliente_id>
+    <nome>Gabriel Silva</nome>
+    <idade>28</idade>
+    <pedidos>[{'produto': 'Teclado Mecânico', 'quantidade': 1, 'preco': 150.0}, {'produto': 'Mouse Gamer', 'quantidade': 2, 'preco': 75.0}]</pedidos>
+  </cliente>
+  <cliente>
+    <cliente_id>2</cliente_id>
+    <nome>Ana Pereira</nome>
+    <idade>34</idade>
+    <pedidos>[{'produto': 'Notebook', 'quantidade': 1, 'preco': 3200.0}, {'produto': 'Cadeira Gamer', 'quantidade': 1, 'preco': 850.0}]</pedidos>
+  </cliente>
+  <cliente>
+    <cliente_id>3</cliente_id>
+    <nome>Carlos Souza</nome>
+    <idade>41</idade>
+    <pedidos>[{'produto': 'Monitor', 'quantidade': 2, 'preco': 1200.0}]</pedidos>
+  </cliente>
+</clientes>

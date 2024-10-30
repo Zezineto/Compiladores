@@ -1,0 +1,15 @@
+cliente_id=1
+nome=Gabriel Silva
+idade=28
+pedidos=[{"produto": "Teclado Mecânico", "quantidade": 1, "preco": 150.0}, {"produto": "Mouse Gamer", "quantidade": 2, "preco": 75.0}]
+---
+cliente_id=2
+nome=Ana Pereira
+idade=34
+pedidos=[{"produto": "Notebook", "quantidade": 1, "preco": 3200.0}, {"produto": "Cadeira Gamer", "quantidade": 1, "preco": 850.0}]
+---
+cliente_id=3
+nome=Carlos Souza
+idade=41
+pedidos=[{"produto": "Monitor", "quantidade": 2, "preco": 1200.0}]
+---

@@ -1,0 +1,62 @@
+<root>
+ <registro>
+ <nome>Joseph Castro</nome>
+ <endereco>27492 Seth Grove</endereco>
+ <email>bradyrodriguez@example.net</email>
+ <telefone>3303373345</telefone>
+ </registro>
+ <registro>
+ <nome>Mitchell Sanders</nome>
+ <endereco>16049 Burton Neck Suite 807</endereco>
+ <email>jenniferbrown@example.com</email>
+ <telefone>426-937-5259</telefone>
+ </registro>
+ <registro>
+ <nome>Jessica Miller</nome>
+ <endereco>39002 Scott Light</endereco>
+ <email>lacey66@example.com</email>
+ <telefone>001-754-401-8159x285</telefone>
+ </registro>
+ <registro>
+ <nome>Amanda Morgan</nome>
+ <endereco>7410 Emma Key Apt. 771</endereco>
+ <email>leonstephens@example.org</email>
+ <telefone>339.764.8915</telefone>
+ </registro>
+ <registro>
+ <nome>Kathleen Snyder</nome>
+ <endereco>13243 Thomas Loop Apt. 859</endereco>
+ <email>martinezkaren@example.net</email>
+ <telefone>+1-618-686-5167</telefone>
+ </registro>
+ <registro>
+ <nome>Monica Liu</nome>
+ <endereco>0392 Santana Islands</endereco>
+ <email>asmith@example.net</email>
+ <telefone>8106596581</telefone>
+ </registro>
+ <registro>
+ <nome>Micheal Adkins</nome>
+ <endereco>695 Knight Square</endereco>
+ <email>baileybrian@example.org</email>
+ <telefone>(368)910-6030x312</telefone>
+ </registro>
+ <registro>
+ <nome>Ryan Wallace</nome>
+ <endereco>926 Ramsey Square</endereco>
+ <email>johnrichards@example.com</email>
+ <telefone>(774)799-4041</telefone>
+ </registro>
+ <registro>
+ <nome>Brittney Graham</nome>
+ <endereco>1961 Michelle Unions</endereco>
+ <email>karamyers@example.com</email>
+ <telefone>440.983.3695x65608</telefone>
+ </registro>
+ <registro>
+ <nome>Daniel Shaffer</nome>
+ <endereco>583 Smith Ways</endereco>
+ <email>tboyd@example.com</email>
+ <telefone>378.353.5934x425</telefone>
+ </registro>
+</root>
